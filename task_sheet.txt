@@ -1,0 +1,15 @@
+1.Create 5 employee 
+Details (name , age, and salary)
+Getthe first output in console
+
+2. Using 5 employee create array of object
+Get the output in cosole
+
+3. Add the salaries and deduct 33 rupees for all the employee.now add the salary . Again the salary multiply by 33 and then divide by 7 .
+Get the output in console
+
+4.find the employee who get highest salary.
+Find the employee who get lowest salary
+
+5. Get the second employee...
+Print employee name using 2 syntex of object
